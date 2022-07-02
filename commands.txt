@@ -43,3 +43,12 @@ git merge branch-name
 -- git head --
 -- when switch to other branch the head is automatically set to latest commit in that branch --
 
+-- Detach head --
+"You can not just checkout branches, you can also checkout specific commit" 
+"We already know when we switch to other branch the head is automatically at latest commit"
+"But what if copy the other commit and say"
+
+git checkout a4cc7cae9506f2d7fe4f48be994ead433ea938f
+
+"When you run this command and type git log you will see the detached head so that means we are not inside any 
+branches but we can still checkout a specific branch commit"
