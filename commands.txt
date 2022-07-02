@@ -32,7 +32,11 @@ git checkout branch-name
 
 git checkout -b 'branch-name'
 
+-- merge branches ---
+-- go to the branch where you want to merge the changes --
+-- currently in master branch --
 
+git merge branch-name
 
-
+-- type q to exit git log --
 
