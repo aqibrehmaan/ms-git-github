@@ -1,0 +1,17 @@
+--- Give information about the working directory ---
+
+git status 
+
+--- add every thing to git ---
+
+git add . 
+git add initial-commit.txt 
+git add initial-commit.txt commands.txt
+
+--- get information about commit -- 
+
+git log
+
+-- switch to branch / commit --
+
+git checkout a4cc7cae9506f2d7fe4f48be994ead433ea938f
