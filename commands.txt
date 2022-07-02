@@ -40,3 +40,6 @@ git merge branch-name
 
 -- type q to exit git log --
 
+-- git head --
+-- when switch to other branch the head is automatically set to latest commit in that branch --
+
