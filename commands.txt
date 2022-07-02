@@ -15,3 +15,24 @@ git log
 -- switch to branch / commit --
 
 git checkout a4cc7cae9506f2d7fe4f48be994ead433ea938f
+
+-- get overview of all the branches --
+
+git branch
+
+-- create new branch ---
+
+git branch 'branch-name'
+
+-- switch to new branch --
+
+git checkout branch-name
+
+-- immediately create and checkout to new branch --
+
+git checkout -b 'branch-name'
+
+
+
+
+
